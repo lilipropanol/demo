@@ -1,0 +1,81 @@
+.barramenu ul{
+    list-style-type: none;
+    background-color: rgb(35, 35, 35);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.barramenu a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    
+}
+
+.barramenu a:hover{
+    background-color: rgb(89, 89, 89);
+    cursor: url('cursor.png'), auto;
+}
+
+.barramenu li{
+    float: left;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    background-image: url("s.gif");
+}
+
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.ley9{
+    margin-bottom: 0;
+}
+
+.koño{
+    margin-top: 0;
+    font-size: 20px;
+    font-style: italic;
+}
+
+main {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+h3{
+    color: yellow;
+}
+
+p{
+    color: white;
+}
+
+.marx{
+    width: 12%;
+    float: left;
+    margin-right: 30px;
+}
+
+.shooting{
+    width: 17%;
+    height: 300px;
+    float: right;
+}
+
+.drooling{
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    width: 15%;
+}
